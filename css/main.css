@@ -7,4 +7,26 @@ and open the template in the editor.
     Created on : May 9, 2017, 1:21:31 AM
     Author     : DonMaxi
 */
+body {
+    background-image: linear-gradient(90deg, #FFFFFF, #edca2f);
+}
 
+.logo {
+}
+
+.navheader {
+}
+
+#carousel {
+    height: 45%;
+}
+
+.carousel-inner {
+    position: fixed;
+    max-height: 40%;
+}
+
+.carousel-inner img {
+    height: auto;
+    width: 100%;
+}
